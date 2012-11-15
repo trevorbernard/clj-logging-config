@@ -3,7 +3,7 @@
   :url "https://github.com/malcolmsparks/clj-logging-config"
   :dependencies [[org.clojure/clojure "1.2.0"]
                  [org.clojure/tools.logging "0.2.4"]
-                 [log4j/log4j "1.2.16"]]
+                 [log4j/log4j "1.2.17"]]
   :min-lein-version "2.0.0"
   :source-paths ["src/main/clojure"]
   :test-paths ["src/test/clojure"]
